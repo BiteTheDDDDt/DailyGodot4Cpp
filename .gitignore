@@ -1,0 +1,7 @@
+.godot/
+.vscode/
+.import/
+.cache/
+
+build/
+output/
