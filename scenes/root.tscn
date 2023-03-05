@@ -22,7 +22,8 @@ offset_top = 20.0
 offset_right = 350.0
 offset_bottom = 95.0
 
-[node name="QuitButton" type="Button" parent="StartPanel/ButtomPanel"]
+[node name="QuitButton" type="QuitButton" parent="StartPanel/ButtomPanel"]
+layout_mode = 0
 offset_left = 50.0
 offset_top = 100.0
 offset_right = 350.0

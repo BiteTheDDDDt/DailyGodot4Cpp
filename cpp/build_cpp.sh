@@ -5,11 +5,11 @@ root_path=$(
 echo "root_path: ${root_path}"
 
 mkdir ./build
-mkdir ./output
 
 cd build
 touch ./.gdignore
 
 cmake -G Ninja .. -DCMAKE_CXX_COMPILER_LAUNCHER=ccache
-cd ${root_path}/output/
-ninja -C ../build
+ninja -C .
+
+cp src/DailyGodot4Cpp.dll ../../resources/extension

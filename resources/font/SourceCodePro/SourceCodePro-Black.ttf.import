@@ -2,13 +2,13 @@
 
 importer="font_data_dynamic"
 type="FontFile"
-uid="uid://cbdbl14ihcc6b"
-path="res://.godot/imported/SourceCodePro-Black.ttf-270dbd76d7046d0523f4faf79dd7a808.fontdata"
+uid="uid://can56yimvebyu"
+path="res://.godot/imported/SourceCodePro-Black.ttf-bd1198fff152cd4b8357c0b3443457a0.fontdata"
 
 [deps]
 
-source_file="res://resource/font/SourceCodePro/SourceCodePro-Black.ttf"
-dest_files=["res://.godot/imported/SourceCodePro-Black.ttf-270dbd76d7046d0523f4faf79dd7a808.fontdata"]
+source_file="res://resources/font/SourceCodePro/SourceCodePro-Black.ttf"
+dest_files=["res://.godot/imported/SourceCodePro-Black.ttf-bd1198fff152cd4b8357c0b3443457a0.fontdata"]
 
 [params]
 

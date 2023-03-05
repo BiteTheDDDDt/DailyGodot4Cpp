@@ -2,13 +2,13 @@
 
 importer="font_data_dynamic"
 type="FontFile"
-uid="uid://myuiauxgdta8"
-path="res://.godot/imported/SourceCodePro-LightIt.ttf-8ce7fdf4def96769745c0c2be8e8b179.fontdata"
+uid="uid://di5k5nwerv6qs"
+path="res://.godot/imported/SourceCodePro-LightIt.ttf-400a4bd006035b50ed7fae11d09ffe83.fontdata"
 
 [deps]
 
-source_file="res://resource/font/SourceCodePro/SourceCodePro-LightIt.ttf"
-dest_files=["res://.godot/imported/SourceCodePro-LightIt.ttf-8ce7fdf4def96769745c0c2be8e8b179.fontdata"]
+source_file="res://resources/font/SourceCodePro/SourceCodePro-LightIt.ttf"
+dest_files=["res://.godot/imported/SourceCodePro-LightIt.ttf-400a4bd006035b50ed7fae11d09ffe83.fontdata"]
 
 [params]
 

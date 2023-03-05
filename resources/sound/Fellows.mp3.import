@@ -2,13 +2,13 @@
 
 importer="mp3"
 type="AudioStreamMP3"
-uid="uid://c82tffjpu2fgt"
-path="res://.godot/imported/Fellows.mp3-0c10369ea3a1405f1a81884dd9e7effb.mp3str"
+uid="uid://dagck10idj65m"
+path="res://.godot/imported/Fellows.mp3-aa592b5de68925cfc7912ecbd56117ce.mp3str"
 
 [deps]
 
-source_file="res://resource/sound/Fellows.mp3"
-dest_files=["res://.godot/imported/Fellows.mp3-0c10369ea3a1405f1a81884dd9e7effb.mp3str"]
+source_file="res://resources/sound/Fellows.mp3"
+dest_files=["res://.godot/imported/Fellows.mp3-aa592b5de68925cfc7912ecbd56117ce.mp3str"]
 
 [params]
 

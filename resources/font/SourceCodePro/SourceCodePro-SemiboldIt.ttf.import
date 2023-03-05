@@ -2,13 +2,13 @@
 
 importer="font_data_dynamic"
 type="FontFile"
-uid="uid://clexpbwkt2rhx"
-path="res://.godot/imported/SourceCodePro-SemiboldIt.ttf-b84f99683b30ddd384f39c888124b6d3.fontdata"
+uid="uid://c3l0x2k8ea087"
+path="res://.godot/imported/SourceCodePro-SemiboldIt.ttf-a9507a08819abc1933c57b0f75176b6f.fontdata"
 
 [deps]
 
-source_file="res://resource/font/SourceCodePro/SourceCodePro-SemiboldIt.ttf"
-dest_files=["res://.godot/imported/SourceCodePro-SemiboldIt.ttf-b84f99683b30ddd384f39c888124b6d3.fontdata"]
+source_file="res://resources/font/SourceCodePro/SourceCodePro-SemiboldIt.ttf"
+dest_files=["res://.godot/imported/SourceCodePro-SemiboldIt.ttf-a9507a08819abc1933c57b0f75176b6f.fontdata"]
 
 [params]
 

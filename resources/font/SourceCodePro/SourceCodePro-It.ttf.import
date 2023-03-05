@@ -2,13 +2,13 @@
 
 importer="font_data_dynamic"
 type="FontFile"
-uid="uid://bodea32wegh3o"
-path="res://.godot/imported/SourceCodePro-It.ttf-9bd0b4873bdb55468e6b667da072bb11.fontdata"
+uid="uid://7i54cxqcu6c0"
+path="res://.godot/imported/SourceCodePro-It.ttf-bd175eaa552b313ccfd662b0ac46bb4c.fontdata"
 
 [deps]
 
-source_file="res://resource/font/SourceCodePro/SourceCodePro-It.ttf"
-dest_files=["res://.godot/imported/SourceCodePro-It.ttf-9bd0b4873bdb55468e6b667da072bb11.fontdata"]
+source_file="res://resources/font/SourceCodePro/SourceCodePro-It.ttf"
+dest_files=["res://.godot/imported/SourceCodePro-It.ttf-bd175eaa552b313ccfd662b0ac46bb4c.fontdata"]
 
 [params]
 

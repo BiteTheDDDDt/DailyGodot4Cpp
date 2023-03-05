@@ -2,13 +2,13 @@
 
 importer="font_data_dynamic"
 type="FontFile"
-uid="uid://dnp4tjkfk4xo4"
-path="res://.godot/imported/SourceCodePro-MediumIt.ttf-f968c86110874a24e0ec24f8dd3e6b40.fontdata"
+uid="uid://bucl87arobhob"
+path="res://.godot/imported/SourceCodePro-MediumIt.ttf-caadd7e1699e5552d7aaa26ddaf3eff7.fontdata"
 
 [deps]
 
-source_file="res://resource/font/SourceCodePro/SourceCodePro-MediumIt.ttf"
-dest_files=["res://.godot/imported/SourceCodePro-MediumIt.ttf-f968c86110874a24e0ec24f8dd3e6b40.fontdata"]
+source_file="res://resources/font/SourceCodePro/SourceCodePro-MediumIt.ttf"
+dest_files=["res://.godot/imported/SourceCodePro-MediumIt.ttf-caadd7e1699e5552d7aaa26ddaf3eff7.fontdata"]
 
 [params]
 

@@ -2,13 +2,13 @@
 
 importer="font_data_dynamic"
 type="FontFile"
-uid="uid://b1xtxcneykxpk"
-path="res://.godot/imported/SourceCodePro-BlackIt.ttf-80f7fef6845c67513c4089a91a37eb74.fontdata"
+uid="uid://drl030objmbon"
+path="res://.godot/imported/SourceCodePro-BlackIt.ttf-58cb990ce696f3995c39f08c499ca0a3.fontdata"
 
 [deps]
 
-source_file="res://resource/font/SourceCodePro/SourceCodePro-BlackIt.ttf"
-dest_files=["res://.godot/imported/SourceCodePro-BlackIt.ttf-80f7fef6845c67513c4089a91a37eb74.fontdata"]
+source_file="res://resources/font/SourceCodePro/SourceCodePro-BlackIt.ttf"
+dest_files=["res://.godot/imported/SourceCodePro-BlackIt.ttf-58cb990ce696f3995c39f08c499ca0a3.fontdata"]
 
 [params]
 

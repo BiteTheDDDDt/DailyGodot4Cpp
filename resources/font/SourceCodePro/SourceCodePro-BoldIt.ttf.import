@@ -2,13 +2,13 @@
 
 importer="font_data_dynamic"
 type="FontFile"
-uid="uid://cv7snpcxer00b"
-path="res://.godot/imported/SourceCodePro-BoldIt.ttf-89e213a0dcb6eeab5406302f3b6d65e5.fontdata"
+uid="uid://bovvtrg2dh6a2"
+path="res://.godot/imported/SourceCodePro-BoldIt.ttf-f3d14a69b644362daa3ab1e7fc20380c.fontdata"
 
 [deps]
 
-source_file="res://resource/font/SourceCodePro/SourceCodePro-BoldIt.ttf"
-dest_files=["res://.godot/imported/SourceCodePro-BoldIt.ttf-89e213a0dcb6eeab5406302f3b6d65e5.fontdata"]
+source_file="res://resources/font/SourceCodePro/SourceCodePro-BoldIt.ttf"
+dest_files=["res://.godot/imported/SourceCodePro-BoldIt.ttf-f3d14a69b644362daa3ab1e7fc20380c.fontdata"]
 
 [params]
 

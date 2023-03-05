@@ -2,13 +2,13 @@
 
 importer="font_data_dynamic"
 type="FontFile"
-uid="uid://bkndni8bx3m7k"
-path="res://.godot/imported/SourceCodePro-ExtraLight.ttf-083e9af5de68c0b6c5a0a78470c47326.fontdata"
+uid="uid://bkey1b43g2xga"
+path="res://.godot/imported/SourceCodePro-ExtraLight.ttf-ebdfa8a751b289a2c7ca334d27ca182f.fontdata"
 
 [deps]
 
-source_file="res://resource/font/SourceCodePro/SourceCodePro-ExtraLight.ttf"
-dest_files=["res://.godot/imported/SourceCodePro-ExtraLight.ttf-083e9af5de68c0b6c5a0a78470c47326.fontdata"]
+source_file="res://resources/font/SourceCodePro/SourceCodePro-ExtraLight.ttf"
+dest_files=["res://.godot/imported/SourceCodePro-ExtraLight.ttf-ebdfa8a751b289a2c7ca334d27ca182f.fontdata"]
 
 [params]
 

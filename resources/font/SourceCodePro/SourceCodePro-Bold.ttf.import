@@ -2,13 +2,13 @@
 
 importer="font_data_dynamic"
 type="FontFile"
-uid="uid://b8sjc6fxsjoxw"
-path="res://.godot/imported/SourceCodePro-Bold.ttf-73f9dca50abf746d4d470a7db100c570.fontdata"
+uid="uid://fvcagra86bd3"
+path="res://.godot/imported/SourceCodePro-Bold.ttf-4e185c8bec0a483a68de02943809b4cf.fontdata"
 
 [deps]
 
-source_file="res://resource/font/SourceCodePro/SourceCodePro-Bold.ttf"
-dest_files=["res://.godot/imported/SourceCodePro-Bold.ttf-73f9dca50abf746d4d470a7db100c570.fontdata"]
+source_file="res://resources/font/SourceCodePro/SourceCodePro-Bold.ttf"
+dest_files=["res://.godot/imported/SourceCodePro-Bold.ttf-4e185c8bec0a483a68de02943809b4cf.fontdata"]
 
 [params]
 

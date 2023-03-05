@@ -1,0 +1,5 @@
+[configuration]
+entry_symbol = "library_init"
+
+[libraries]
+windows.debug.x86_64 = "DailyGodot4Cpp.dll"
