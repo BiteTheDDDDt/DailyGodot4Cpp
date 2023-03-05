@@ -1,3 +1,4 @@
+#include "objects/select_button.h"
 #if _WIN64
 #pragma pointers_to_members(full_generality, multiple_inheritance)
 #endif
@@ -13,6 +14,7 @@ void register_types(ModuleInitializationLevel p_level) {
         return;
     }
     ClassDB::register_class<QuitButton>();
+    ClassDB::register_class<SelectButton>();
 }
 
 void unregister_types(ModuleInitializationLevel p_level) {
